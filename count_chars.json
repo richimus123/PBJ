@@ -1,0 +1,8 @@
+{
+  "module": "example",
+  "function": "count_chars",
+  "args": ["This is my test string.", "i"],
+  "kwargs": {
+  },
+  "expected_result": 3
+}
