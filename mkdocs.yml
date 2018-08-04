@@ -1,0 +1,10 @@
+site_name: pytest-jat
+site_description: JSON driven Automated testing in Python.
+site_author: Rich Stacey
+
+theme: readthedocs
+
+repo_url: https://github.com/richimus123/pytest-jat
+
+pages:
+- Home: index.md
