@@ -1,0 +1,9 @@
+{
+  "module": "example",
+  "function": "my_cool_function",
+  "args": [7],
+  "kwargs": {
+    "b": 10
+  },
+  "expected_result": 17
+}
