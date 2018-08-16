@@ -24,3 +24,6 @@ Generate pytest cases based upon simple JSON files with a rich management portal
 * Make this a pytest plugin
 * Automated changelog and versioning
 * Logging
+
+# Collaboration:
+Please feel free to add to this, request features/bug fixes, or fork the project, etc.  This is still pretty conceptual, but ideally this will make adding test cases much easier for myself.
