@@ -1,4 +1,4 @@
-# pytest_simple_json
+# PBJ (Pytest Better via JSON Automation)
 Generate pytest cases based upon simple JSON files with a rich management portal.
 
   The intent of this project is to simplify management of Unit test datasets and automate unit testing in Python.  It should require much less human interaction and manual work to update/maintain unit test contents and write unit tests.  The motto in the design here is KISS (Keep it Simple Stupid) and hopefully everything will stay as simple and intuitive as possible.  This is intended for Python3.7.
